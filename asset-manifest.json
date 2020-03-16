@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/color-boxes-activity/static/css/main.0a3793e8.chunk.css",
+    "main.js": "/color-boxes-activity/static/js/main.13799aee.chunk.js",
+    "main.js.map": "/color-boxes-activity/static/js/main.13799aee.chunk.js.map",
+    "runtime-main.js": "/color-boxes-activity/static/js/runtime-main.d46f96eb.js",
+    "runtime-main.js.map": "/color-boxes-activity/static/js/runtime-main.d46f96eb.js.map",
+    "static/js/2.e47fef4a.chunk.js": "/color-boxes-activity/static/js/2.e47fef4a.chunk.js",
+    "static/js/2.e47fef4a.chunk.js.map": "/color-boxes-activity/static/js/2.e47fef4a.chunk.js.map",
+    "index.html": "/color-boxes-activity/index.html",
+    "precache-manifest.56e9654743bf89898837a84ba529e8d5.js": "/color-boxes-activity/precache-manifest.56e9654743bf89898837a84ba529e8d5.js",
+    "service-worker.js": "/color-boxes-activity/service-worker.js",
+    "static/css/main.0a3793e8.chunk.css.map": "/color-boxes-activity/static/css/main.0a3793e8.chunk.css.map",
+    "static/js/2.e47fef4a.chunk.js.LICENSE.txt": "/color-boxes-activity/static/js/2.e47fef4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d46f96eb.js",
+    "static/js/2.e47fef4a.chunk.js",
+    "static/css/main.0a3793e8.chunk.css",
+    "static/js/main.13799aee.chunk.js"
+  ]
+}
